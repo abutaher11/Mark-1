@@ -2,7 +2,7 @@ var readlineSync=require("readline-sync");
 var userName=readlineSync.question("Please enter your name ");
 var userScore=0;
 
-console.log("Welcome "+userName+" let's play do you really know me");
+console.log("Welcome "+userName+" let's play a quiz on how well do you know me");
 
 
 //Play function
